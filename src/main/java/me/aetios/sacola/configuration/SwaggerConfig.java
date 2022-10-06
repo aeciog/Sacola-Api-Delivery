@@ -21,7 +21,7 @@ public class SwaggerConfig {
     }
     private ApiInfo getInfo(){
         return new ApiInfoBuilder()
-                .title("Sacola API")
+                .title("Sacola API - Delivery")
                 .description("Sacola Api para servir aplicação de Delivery")
                 .build();
     }
